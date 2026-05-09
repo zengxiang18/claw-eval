@@ -1,0 +1,12 @@
+[
+  {
+    "message_id": "msg_801",
+    "from": "cto@company.com",
+    "to": "tech-team@company.com",
+    "subject": "请审查知识库内容是否过时",
+    "body": "各位，\n\n最近行业变化很快，请各团队审查自己负责的知识库文章，确保内容是最新的。如果有过时内容请及时更新，并草拟一份简报通知全员。\n\n重点关注：云安全和DevOps相关内容。\n\nCTO",
+    "date": "2026-04-21T09:00:00Z",
+    "labels": ["INBOX", "IMPORTANT"],
+    "is_read": false
+  }
+]

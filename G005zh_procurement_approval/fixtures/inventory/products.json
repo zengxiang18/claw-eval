@@ -1,0 +1,42 @@
+[
+  {
+    "product_id": "PRD-701",
+    "name": "ThinkPad X1 Carbon 笔记本电脑",
+    "category": "办公设备",
+    "current_stock": 5,
+    "min_stock": 20,
+    "unit_price": 2000,
+    "supplier": "联想授权经销商",
+    "description": "员工标准配置笔记本电脑"
+  },
+  {
+    "product_id": "PRD-702",
+    "name": "A4打印纸",
+    "category": "办公用品",
+    "current_stock": 500,
+    "min_stock": 100,
+    "unit_price": 40,
+    "supplier": "办公用品供应商",
+    "description": "标准A4打印纸，每箱10包"
+  },
+  {
+    "product_id": "PRD-703",
+    "name": "Dell PowerEdge R750 服务器",
+    "category": "IT设备",
+    "current_stock": 2,
+    "min_stock": 3,
+    "unit_price": 60000,
+    "supplier": "戴尔企业服务",
+    "description": "机架式服务器，用于扩容数据中心"
+  },
+  {
+    "product_id": "PRD-704",
+    "name": "投影仪",
+    "category": "办公设备",
+    "current_stock": 8,
+    "min_stock": 5,
+    "unit_price": 3500,
+    "supplier": "电子设备供应商",
+    "description": "会议室投影仪"
+  }
+]

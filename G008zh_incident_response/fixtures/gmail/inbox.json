@@ -1,0 +1,12 @@
+[
+  {
+    "message_id": "msg_501",
+    "from": "ceo@company.com",
+    "to": "ops-team@company.com",
+    "subject": "紧急：系统故障影响业务",
+    "body": "运维团队，\n\n今天早上多个部门反馈CRM系统异常，请尽快排查原因并通知相关人员。\n\nCEO",
+    "date": "2026-04-25T09:30:00Z",
+    "labels": ["INBOX", "IMPORTANT"],
+    "is_read": false
+  }
+]

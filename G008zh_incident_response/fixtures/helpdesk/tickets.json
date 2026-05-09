@@ -1,0 +1,38 @@
+[
+  {
+    "ticket_id": "TK-5001",
+    "title": "CRM系统查询超时",
+    "description": "从昨天下午开始，CRM系统查询客户信息时频繁超时，刷新多次才能加载。影响销售团队日常工作。",
+    "reporter": "销售部张伟",
+    "department": "销售部",
+    "priority": "high",
+    "status": "open",
+    "created_at": "2026-04-24T19:30:00Z",
+    "tags": ["CRM", "超时", "紧急"],
+    "category": "系统故障"
+  },
+  {
+    "ticket_id": "TK-5002",
+    "title": "客户数据更新延迟",
+    "description": "CRM中的客户联系信息不是最新的，昨天修改的地址今天还是旧的。怀疑数据同步有问题。",
+    "reporter": "客服部李芳",
+    "department": "客服部",
+    "priority": "medium",
+    "status": "open",
+    "created_at": "2026-04-25T08:15:00Z",
+    "tags": ["CRM", "数据延迟"],
+    "category": "系统故障"
+  },
+  {
+    "ticket_id": "TK-5003",
+    "title": "CRM报表数据不准确",
+    "description": "月度销售报表中的数据与实际不符，怀疑是数据同步延迟导致的。管理层明天需要报表，很急。",
+    "reporter": "财务部王会计",
+    "department": "财务部",
+    "priority": "high",
+    "status": "open",
+    "created_at": "2026-04-25T09:00:00Z",
+    "tags": ["CRM", "报表", "数据不准确"],
+    "category": "系统故障"
+  }
+]

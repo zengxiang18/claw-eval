@@ -1,0 +1,47 @@
+[
+  {
+    "article_id": "rss_801",
+    "title": "2026年零信任架构实践指南：从WAF到微分段",
+    "source": "安全客",
+    "category": "安全",
+    "published_at": "2026-04-20T08:00:00Z",
+    "summary": "随着远程办公和混合云的普及，传统的WAF+IDS边界防护模型已无法满足安全需求。零信任架构（Zero Trust Architecture）通过'永不信任，始终验证'的原则，实现了更精细的访问控制。本文介绍了从传统边界防护迁移到零信任架构的具体步骤和最佳实践。",
+    "word_count": 3500
+  },
+  {
+    "article_id": "rss_802",
+    "title": "GitOps已成主流：2026年自动化CI/CD最新实践",
+    "source": "DevOps周刊",
+    "category": "DevOps",
+    "published_at": "2026-04-19T10:00:00Z",
+    "summary": "手动部署和审批流程正被GitOps自动化流水线取代。ArgoCD和Flux等工具让部署完全声明化和自动化，代码合并即部署，审批通过PR完成。文章介绍了GitOps的核心原则、工具选型和迁移路径。",
+    "word_count": 4200
+  },
+  {
+    "article_id": "rss_803",
+    "title": "NIST发布云安全框架更新版SP 800-207A",
+    "source": "安全标准化",
+    "category": "安全",
+    "published_at": "2026-04-18T14:00:00Z",
+    "summary": "NIST发布了SP 800-207A更新版，明确了零信任架构在多云环境下的实施标准，包括身份验证、微分段、持续监控等核心组件的技术要求。",
+    "word_count": 2800
+  },
+  {
+    "article_id": "rss_804",
+    "title": "平台工程（Platform Engineering）趋势报告",
+    "source": "InfoQ",
+    "category": "DevOps",
+    "published_at": "2026-04-17T09:00:00Z",
+    "summary": "平台工程正在重塑DevOps实践，通过内部开发者平台（IDP）提供自助服务能力，减少开发者的认知负载。报告显示75%的企业正在或计划建设内部开发者平台。",
+    "word_count": 5100
+  },
+  {
+    "article_id": "rss_805",
+    "title": "AI代码审查工具对比评测",
+    "source": "开发者资讯",
+    "category": "开发工具",
+    "published_at": "2026-04-16T11:00:00Z",
+    "summary": "对比了GitHub Copilot、CodeRabbit、Sourcery等AI代码审查工具的功能和效果。",
+    "word_count": 3200
+  }
+]

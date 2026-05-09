@@ -1,0 +1,62 @@
+[
+  {
+    "task_id": "todo_601",
+    "title": "智慧园区 — API接口开发",
+    "description": "开发智慧园区管理平台的RESTful API接口，包括设备管理、告警推送、数据查询等模块",
+    "status": "completed",
+    "priority": "high",
+    "due_date": "2026-04-20",
+    "tags": ["智慧园区", "后端", "API"],
+    "created_at": "2026-03-01T10:00:00Z"
+  },
+  {
+    "task_id": "todo_602",
+    "title": "智慧园区 — 数据库迁移",
+    "description": "将旧版数据库迁移到新的云数据库，包括数据清洗、表结构适配和性能优化",
+    "status": "pending",
+    "priority": "high",
+    "due_date": "2026-04-15",
+    "tags": ["智慧园区", "数据库", "迁移"],
+    "created_at": "2026-03-05T09:00:00Z"
+  },
+  {
+    "task_id": "todo_603",
+    "title": "智慧园区 — UI界面设计",
+    "description": "设计智慧园区管理平台的用户界面，包括仪表盘、设备监控、告警管理等页面",
+    "status": "completed",
+    "priority": "medium",
+    "due_date": "2026-04-25",
+    "tags": ["智慧园区", "前端", "UI"],
+    "created_at": "2026-03-10T14:00:00Z"
+  },
+  {
+    "task_id": "todo_604",
+    "title": "智慧园区 — 安全审计模块",
+    "description": "开发安全审计模块，记录操作日志和异常访问检测",
+    "status": "pending",
+    "priority": "medium",
+    "due_date": "2026-05-10",
+    "tags": ["智慧园区", "安全", "审计"],
+    "created_at": "2026-04-01T11:00:00Z"
+  },
+  {
+    "task_id": "todo_605",
+    "title": "智慧园区 — 性能测试",
+    "description": "对智慧园区平台进行压力测试和性能优化，确保并发1000用户无异常",
+    "status": "completed",
+    "priority": "high",
+    "due_date": "2026-04-18",
+    "tags": ["智慧园区", "测试", "性能"],
+    "created_at": "2026-04-05T10:00:00Z"
+  },
+  {
+    "task_id": "todo_606",
+    "title": "智慧园区 — 文档编写",
+    "description": "编写项目技术文档和用户手册",
+    "status": "pending",
+    "priority": "low",
+    "due_date": "2026-05-20",
+    "tags": ["智慧园区", "文档"],
+    "created_at": "2026-04-10T09:00:00Z"
+  }
+]

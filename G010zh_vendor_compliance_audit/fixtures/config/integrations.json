@@ -1,0 +1,38 @@
+[
+  {
+    "integration_id": "INT-1001",
+    "name": "速达供应API",
+    "service": "suda_supply",
+    "status": "degraded",
+    "last_verified": "2026-04-20T08:00:00Z",
+    "monthly_calls": 8000,
+    "error_rate": 0.18,
+    "notes": "近3个月错误率持续升高，从5%升至18%。主要错误：超时、数据格式不一致。已多次联系供应商未改善。",
+    "api_key": "sk-suda-xxxx-hidden",
+    "endpoint": "https://api.suda-supply.com/v2"
+  },
+  {
+    "integration_id": "INT-1002",
+    "name": "信达物流API",
+    "service": "xinda_logistics",
+    "status": "active",
+    "last_verified": "2026-04-24T10:00:00Z",
+    "monthly_calls": 12000,
+    "error_rate": 0.01,
+    "notes": "运行稳定，响应时间<200ms。供应商响应及时。",
+    "api_key": "sk-xinda-xxxx-hidden",
+    "endpoint": "https://api.xinda-logistics.com/v1"
+  },
+  {
+    "integration_id": "INT-1003",
+    "name": "精密电子API",
+    "service": "jingmi_electronics",
+    "status": "active",
+    "last_verified": "2026-04-15T09:00:00Z",
+    "monthly_calls": 5000,
+    "error_rate": 0.03,
+    "notes": "API密钥将于2026年5月15日过期，需要续期。已发提醒邮件。",
+    "api_key": "sk-jingmi-xxxx-hidden",
+    "endpoint": "https://api.jingmi-elec.com/v1"
+  }
+]

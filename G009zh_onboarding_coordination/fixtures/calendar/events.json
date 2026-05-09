@@ -1,0 +1,26 @@
+[
+  {
+    "event_id": "evt_901",
+    "title": "架构评审会",
+    "start_time": "2026-05-06T10:00:00Z",
+    "end_time": "2026-05-06T12:00:00Z",
+    "attendees": ["zhaolei@company.com"],
+    "location": "会议室C",
+    "organizer": "zhaolei@company.com",
+    "description": "微服务架构方案评审",
+    "status": "confirmed",
+    "recurring": false
+  },
+  {
+    "event_id": "evt_902",
+    "title": "周例会",
+    "start_time": "2026-05-06T09:00:00Z",
+    "end_time": "2026-05-06T09:30:00Z",
+    "attendees": ["zhaolei@company.com", "zhouzj@company.com"],
+    "location": "会议室B",
+    "organizer": "admin@company.com",
+    "description": "部门周例会",
+    "status": "confirmed",
+    "recurring": false
+  }
+]

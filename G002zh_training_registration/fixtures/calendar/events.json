@@ -1,0 +1,50 @@
+[
+  {
+    "event_id": "evt_201",
+    "title": "云原生架构实践",
+    "start_time": "2026-05-04T09:00:00Z",
+    "end_time": "2026-05-04T17:00:00Z",
+    "attendees": ["training@company.com"],
+    "location": "培训室A",
+    "organizer": "training@company.com",
+    "description": "全天课程：容器化基础与Kubernetes实战",
+    "status": "confirmed",
+    "recurring": false
+  },
+  {
+    "event_id": "evt_202",
+    "title": "AI应用开发工作坊",
+    "start_time": "2026-05-05T09:00:00Z",
+    "end_time": "2026-05-06T17:00:00Z",
+    "attendees": ["training@company.com"],
+    "location": "创新实验室",
+    "organizer": "training@company.com",
+    "description": "两天工作坊：LLM应用开发与Prompt Engineering",
+    "status": "confirmed",
+    "recurring": false
+  },
+  {
+    "event_id": "evt_203",
+    "title": "安全合规培训（已取消）",
+    "start_time": "2026-05-07T14:00:00Z",
+    "end_time": "2026-05-07T17:00:00Z",
+    "attendees": [],
+    "location": "培训室B",
+    "organizer": "training@company.com",
+    "description": "讲师生病，课程取消，待重新安排",
+    "status": "cancelled",
+    "recurring": false
+  },
+  {
+    "event_id": "evt_204",
+    "title": "领导力提升课程",
+    "start_time": "2026-05-09T09:00:00Z",
+    "end_time": "2026-05-09T12:00:00Z",
+    "attendees": ["training@company.com"],
+    "location": "VIP会议室",
+    "organizer": "training@company.com",
+    "description": "半天课程：新晋管理者领导力培训",
+    "status": "confirmed",
+    "recurring": false
+  }
+]

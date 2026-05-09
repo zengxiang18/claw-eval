@@ -1,0 +1,50 @@
+[
+  {
+    "ticket_id": "TK-2001",
+    "title": "培训报名 — 云原生架构实践",
+    "description": "申请报名云原生架构实践课程，希望学习容器化和Kubernetes相关知识。",
+    "reporter": "张伟",
+    "department": "研发部",
+    "priority": "medium",
+    "status": "open",
+    "created_at": "2026-04-18T09:00:00Z",
+    "tags": ["培训", "云原生"],
+    "category": "培训申请"
+  },
+  {
+    "ticket_id": "TK-2002",
+    "title": "培训报名 — AI应用开发工作坊",
+    "description": "希望参加AI应用开发工作坊，学习LLM应用开发和Prompt Engineering。",
+    "reporter": "李娜",
+    "department": "产品部",
+    "priority": "high",
+    "status": "open",
+    "created_at": "2026-04-18T10:30:00Z",
+    "tags": ["培训", "AI"],
+    "category": "培训申请"
+  },
+  {
+    "ticket_id": "TK-2003",
+    "title": "培训报名 — 安全合规培训",
+    "description": "需要参加安全合规培训，满足年度安全培训要求。",
+    "reporter": "王强",
+    "department": "运维部",
+    "priority": "medium",
+    "status": "open",
+    "created_at": "2026-04-19T08:15:00Z",
+    "tags": ["培训", "安全"],
+    "category": "培训申请"
+  },
+  {
+    "ticket_id": "TK-2004",
+    "title": "培训报名 — 领导力提升课程",
+    "description": "申请参加领导力提升课程，为新晋管理者培训项目。",
+    "reporter": "赵敏",
+    "department": "市场部",
+    "priority": "low",
+    "status": "open",
+    "created_at": "2026-04-19T14:00:00Z",
+    "tags": ["培训", "领导力"],
+    "category": "培训申请"
+  }
+]

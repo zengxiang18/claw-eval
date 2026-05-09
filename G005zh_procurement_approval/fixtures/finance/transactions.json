@@ -1,0 +1,42 @@
+[
+  {
+    "transaction_id": "txn_701",
+    "date": "2026-04-01",
+    "amount": 150000.00,
+    "currency": "CNY",
+    "merchant": "云服务商A",
+    "category": "云服务",
+    "description": "Q2云基础设施预付费用",
+    "receipt_url": "receipts/txn_701.jpg"
+  },
+  {
+    "transaction_id": "txn_702",
+    "date": "2026-04-05",
+    "amount": 85000.00,
+    "currency": "CNY",
+    "merchant": "软件供应商B",
+    "category": "软件许可",
+    "description": "Q2软件许可续费",
+    "receipt_url": "receipts/txn_702.jpg"
+  },
+  {
+    "transaction_id": "txn_703",
+    "date": "2026-04-10",
+    "amount": 120000.00,
+    "currency": "CNY",
+    "merchant": "办公设备供应商C",
+    "category": "办公设备",
+    "description": "显示器和键盘批量采购",
+    "receipt_url": "receipts/txn_703.jpg"
+  },
+  {
+    "transaction_id": "txn_704",
+    "date": "2026-04-15",
+    "amount": 30000.00,
+    "currency": "CNY",
+    "merchant": "培训服务D",
+    "category": "培训",
+    "description": "Q2员工培训费用",
+    "receipt_url": "receipts/txn_704.jpg"
+  }
+]

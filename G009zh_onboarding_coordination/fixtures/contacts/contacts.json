@@ -1,0 +1,29 @@
+[
+  {
+    "contact_id": "ct_901",
+    "name": "赵磊",
+    "email": "zhaolei@company.com",
+    "phone": "13900139001",
+    "department": "技术部",
+    "title": "高级前端工程师",
+    "notes": "前端团队导师，负责新员工技术指导"
+  },
+  {
+    "contact_id": "ct_902",
+    "name": "周总监",
+    "email": "zhouzj@company.com",
+    "phone": "13900139002",
+    "department": "技术部",
+    "title": "技术总监",
+    "notes": "技术部负责人，负责新员工入职审批"
+  },
+  {
+    "contact_id": "ct_903",
+    "name": "孙HR",
+    "email": "sunhr@company.com",
+    "phone": "13900139003",
+    "department": "人力资源部",
+    "title": "HR专员",
+    "notes": "负责入职手续办理"
+  }
+]

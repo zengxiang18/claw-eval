@@ -1,0 +1,38 @@
+[
+  {
+    "ticket_id": "TK-4001",
+    "title": "采购申请 — 笔记本电脑30台",
+    "description": "新入职员工需要配备笔记本电脑30台，当前库存仅剩5台，远低于最低库存线20台。预计采购金额60,000元。",
+    "reporter": "行政部王主任",
+    "department": "行政部",
+    "priority": "high",
+    "status": "open",
+    "created_at": "2026-04-22T09:00:00Z",
+    "tags": ["采购", "办公设备"],
+    "category": "采购申请"
+  },
+  {
+    "ticket_id": "TK-4002",
+    "title": "采购申请 — 打印纸200箱",
+    "description": "办公室打印纸需要补货，申请采购200箱。预计采购金额8,000元。",
+    "reporter": "行政部小李",
+    "department": "行政部",
+    "priority": "low",
+    "status": "open",
+    "created_at": "2026-04-22T10:30:00Z",
+    "tags": ["采购", "办公用品"],
+    "category": "采购申请"
+  },
+  {
+    "ticket_id": "TK-4003",
+    "title": "采购申请 — 服务器3台",
+    "description": "数据中心扩容需要新增3台Dell PowerEdge R750服务器。预计采购金额180,000元。此为Q2重点IT投资项目。",
+    "reporter": "运维部陈经理",
+    "department": "运维部",
+    "priority": "high",
+    "status": "open",
+    "created_at": "2026-04-22T14:00:00Z",
+    "tags": ["采购", "IT设备", "高优先级"],
+    "category": "采购申请"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "message_id": "msg_401",
+    "from": "zhangxiaoming@gmail.com",
+    "to": "hr@company.com",
+    "subject": "应聘前端开发工程师 — 张晓明",
+    "body": "您好，\n\n我是张晓明，有5年前端开发经验，擅长React和Vue框架。\n之前在ABC科技公司担任高级前端工程师。\n\n希望能安排一次面试，我可以随时参加。\n\n谢谢！\n张晓明\n电话：13800138001",
+    "date": "2026-04-20T09:00:00Z",
+    "labels": ["INBOX", "IMPORTANT"],
+    "is_read": false
+  },
+  {
+    "message_id": "msg_402",
+    "from": "lixiaohong@outlook.com",
+    "to": "hr@company.com",
+    "subject": "产品经理岗位应聘 — 李小红",
+    "body": "HR团队好，\n\n我是李小红，对贵公司的产品经理岗位很感兴趣。\n我有3年B端产品经验，曾主导过两个SaaS产品从0到1的规划。\n\n请问何时方便面试？我偏好下午时段。\n\n李小红\n13800138002",
+    "date": "2026-04-20T11:30:00Z",
+    "labels": ["INBOX", "IMPORTANT"],
+    "is_read": false
+  },
+  {
+    "message_id": "msg_403",
+    "from": "wangdawei@qq.com",
+    "to": "hr@company.com",
+    "subject": "后端开发岗位申请 — 王大伟",
+    "body": "您好，\n\n我叫王大伟，有7年Java/Go后端开发经验，熟悉微服务架构和分布式系统。\n目前在DEF数据公司负责核心交易系统。\n\n想申请贵公司的后端开发岗位，请问如何安排面试？\n\n王大伟\n13800138003",
+    "date": "2026-04-20T14:15:00Z",
+    "labels": ["INBOX", "IMPORTANT"],
+    "is_read": false
+  },
+  {
+    "message_id": "msg_404",
+    "from": "weekly@company.com",
+    "to": "all@company.com",
+    "subject": "本周公司通讯 — 2026年第17期",
+    "body": "各位同事：\n\n本周要闻：\n1. 新办公区装修进展\n2. 年度体检安排\n3. 团建活动投票\n\n详情请查看内网。",
+    "date": "2026-04-19T08:00:00Z",
+    "labels": ["INBOX", "CATEGORY_UPDATES"],
+    "is_read": true
+  }
+]

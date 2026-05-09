@@ -1,0 +1,29 @@
+[
+  {
+    "contact_id": "ct_401",
+    "name": "刘总",
+    "email": "liuzong@company.com",
+    "phone": "13900139001",
+    "department": "技术部",
+    "title": "技术总监",
+    "notes": "负责技术岗位面试，偏好下午时段面试"
+  },
+  {
+    "contact_id": "ct_402",
+    "name": "陈工",
+    "email": "chengong@company.com",
+    "phone": "13900139002",
+    "department": "技术部",
+    "title": "首席架构师",
+    "notes": "负责后端和架构岗位面试，偏好上午时段面试"
+  },
+  {
+    "contact_id": "ct_403",
+    "name": "赵HR",
+    "email": "zhaohr@company.com",
+    "phone": "13900139003",
+    "department": "人力资源部",
+    "title": "招聘经理",
+    "notes": "负责面试协调和候选人沟通"
+  }
+]

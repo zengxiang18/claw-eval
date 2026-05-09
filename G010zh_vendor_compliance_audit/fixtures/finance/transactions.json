@@ -1,0 +1,42 @@
+[
+  {
+    "transaction_id": "txn_1001",
+    "date": "2026-03-15",
+    "amount": 250000.00,
+    "currency": "CNY",
+    "merchant": "速达供应",
+    "category": "采购付款",
+    "description": "Q1电子元器件采购款，已全额支付",
+    "receipt_url": "receipts/txn_1001.jpg"
+  },
+  {
+    "transaction_id": "txn_1002",
+    "date": "2026-04-10",
+    "amount": 50000.00,
+    "currency": "CNY",
+    "merchant": "速达供应",
+    "category": "付款争议",
+    "description": "因产品质量问题退货产生的¥50,000退款争议。速达供应拒绝退款，声称是使用不当导致。正在走仲裁流程。",
+    "receipt_url": "receipts/txn_1002.jpg"
+  },
+  {
+    "transaction_id": "txn_1003",
+    "date": "2026-04-01",
+    "amount": 180000.00,
+    "currency": "CNY",
+    "merchant": "信达物流",
+    "category": "采购付款",
+    "description": "Q2包装材料采购款，已全额支付，无争议",
+    "receipt_url": "receipts/txn_1003.jpg"
+  },
+  {
+    "transaction_id": "txn_1004",
+    "date": "2026-04-05",
+    "amount": 320000.00,
+    "currency": "CNY",
+    "merchant": "精密电子",
+    "category": "采购付款",
+    "description": "Q2精密传感器采购款，已全额支付，无争议",
+    "receipt_url": "receipts/txn_1004.jpg"
+  }
+]

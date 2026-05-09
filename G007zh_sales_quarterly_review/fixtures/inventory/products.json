@@ -1,0 +1,32 @@
+[
+  {
+    "product_id": "PRD-901",
+    "name": "智能网关Pro",
+    "category": "IoT设备",
+    "current_stock": 150,
+    "min_stock": 50,
+    "unit_price": 1500,
+    "supplier": "芯片科技",
+    "description": "企业级智能网关，支持5G和WiFi6"
+  },
+  {
+    "product_id": "PRD-902",
+    "name": "环境传感器X1",
+    "category": "IoT设备",
+    "current_stock": 300,
+    "min_stock": 100,
+    "unit_price": 200,
+    "supplier": "传感器厂商",
+    "description": "温湿度环境传感器"
+  },
+  {
+    "product_id": "PRD-903",
+    "name": "智能手环S2",
+    "category": "可穿戴设备",
+    "current_stock": 0,
+    "min_stock": 30,
+    "unit_price": 1900,
+    "supplier": "可穿戴科技",
+    "description": "企业健康管理智能手环，当前缺货"
+  }
+]

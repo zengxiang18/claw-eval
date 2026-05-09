@@ -1,0 +1,38 @@
+[
+  {
+    "integration_id": "INT-501",
+    "name": "CRM API集成",
+    "service": "crm",
+    "status": "degraded",
+    "last_verified": "2026-04-25T07:00:00Z",
+    "monthly_calls": 15000,
+    "error_rate": 0.35,
+    "notes": "从4月24日18:00开始，API错误率从2%飙升到35%，主要错误为ConnectionTimeout。可能与数据同步任务失败相关。",
+    "api_key": "sk-crm-xxxx-hidden",
+    "endpoint": "https://api.crm-vendor.com/v2"
+  },
+  {
+    "integration_id": "INT-502",
+    "name": "邮件服务集成",
+    "service": "email",
+    "status": "active",
+    "last_verified": "2026-04-25T08:00:00Z",
+    "monthly_calls": 8000,
+    "error_rate": 0.01,
+    "notes": "正常运行",
+    "api_key": "sk-email-xxxx-hidden",
+    "endpoint": "https://api.email-service.com/v1"
+  },
+  {
+    "integration_id": "INT-503",
+    "name": "支付网关集成",
+    "service": "payment",
+    "status": "active",
+    "last_verified": "2026-04-25T06:00:00Z",
+    "monthly_calls": 5000,
+    "error_rate": 0.02,
+    "notes": "正常运行",
+    "api_key": "sk-payment-xxxx-hidden",
+    "endpoint": "https://api.payment-gw.com/v1"
+  }
+]

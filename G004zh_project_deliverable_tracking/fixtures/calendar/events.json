@@ -1,0 +1,38 @@
+[
+  {
+    "event_id": "evt_601",
+    "title": "智慧园区 — 里程碑验收",
+    "start_time": "2026-05-15T09:00:00Z",
+    "end_time": "2026-05-15T12:00:00Z",
+    "attendees": ["张经理", "客户方陈总"],
+    "location": "会议室A",
+    "organizer": "张经理",
+    "description": "智慧园区项目中期里程碑验收，需演示核心功能并交付阶段性成果",
+    "status": "confirmed",
+    "recurring": false
+  },
+  {
+    "event_id": "evt_602",
+    "title": "智慧园区 — UI二次评审",
+    "start_time": "2026-05-02T14:00:00Z",
+    "end_time": "2026-05-02T16:00:00Z",
+    "attendees": ["王设计", "客户方陈总"],
+    "location": "线上会议",
+    "organizer": "张经理",
+    "description": "UI方案修改后的二次客户评审",
+    "status": "confirmed",
+    "recurring": false
+  },
+  {
+    "event_id": "evt_603",
+    "title": "智慧园区 — 项目周会",
+    "start_time": "2026-04-28T10:00:00Z",
+    "end_time": "2026-04-28T11:00:00Z",
+    "attendees": ["张经理", "李工", "王设计"],
+    "location": "会议室B",
+    "organizer": "张经理",
+    "description": "每周项目进度同步会",
+    "status": "confirmed",
+    "recurring": false
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "customer_id": "CUS-1001",
+    "name": "信达物流",
+    "contact_person": "张总",
+    "email": "zhangzong@xinda-logistics.com",
+    "phone": "13900139001",
+    "industry": "物流",
+    "tier": "vip",
+    "annual_revenue": 3000000,
+    "last_contact_date": "2026-04-24",
+    "status": "active",
+    "recent_orders": [],
+    "notes": "长期合作伙伴，服务稳定，无风险标记。"
+  },
+  {
+    "customer_id": "CUS-1002",
+    "name": "速达供应",
+    "contact_person": "李总",
+    "email": "lizong@suda-supply.com",
+    "phone": "13900139002",
+    "industry": "电子元件",
+    "tier": "standard",
+    "annual_revenue": 1500000,
+    "last_contact_date": "2026-04-10",
+    "status": "active",
+    "recent_orders": [],
+    "notes": "风险关注：近3个月退货率异常升高，付款争议未解决，API集成频繁故障。建议评估替代供应商。"
+  },
+  {
+    "customer_id": "CUS-1003",
+    "name": "精密电子",
+    "contact_person": "王总",
+    "email": "wangzong@jingmi-elec.com",
+    "phone": "13900139003",
+    "industry": "精密电子",
+    "tier": "standard",
+    "annual_revenue": 2000000,
+    "last_contact_date": "2026-04-15",
+    "status": "active",
+    "recent_orders": [],
+    "notes": "产品品质良好，但API密钥即将过期需要续期。"
+  }
+]

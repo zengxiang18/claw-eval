@@ -1,0 +1,50 @@
+[
+  {
+    "ticket_id": "TK-3001",
+    "title": "智能门锁V2硬件故障 — 多台设备无法开锁",
+    "description": "客户明华科技报告，采购的智能门锁V2中有约80台出现无法开锁的问题。初步排查为电机驱动模块故障，需要更换硬件。",
+    "reporter": "周建明",
+    "department": "技术支持",
+    "priority": "high",
+    "status": "open",
+    "created_at": "2026-03-15T09:00:00Z",
+    "tags": ["硬件故障", "智能门锁V2", "VIP客户"],
+    "category": "产品故障"
+  },
+  {
+    "ticket_id": "TK-3002",
+    "title": "智能门锁V2固件升级后频繁断连",
+    "description": "多个客户反馈智能门锁V2在升级到v2.3.1固件后出现频繁断连问题。断连后需要手动重启才能恢复。已确认是固件bug，研发正在修复v2.3.2补丁。",
+    "reporter": "技术支持团队",
+    "department": "研发部",
+    "priority": "high",
+    "status": "open",
+    "created_at": "2026-03-20T14:00:00Z",
+    "tags": ["固件bug", "智能门锁V2", "断连"],
+    "category": "产品故障"
+  },
+  {
+    "ticket_id": "TK-3003",
+    "title": "智能门锁V2交付延迟 — 库存不足",
+    "description": "由于大量退货和维修替换，智能门锁V2库存已低于安全线。3月底的订单（ORD-303）无法按时交付，预计延迟2周。",
+    "reporter": "供应链团队",
+    "department": "供应链",
+    "priority": "medium",
+    "status": "open",
+    "created_at": "2026-04-01T11:00:00Z",
+    "tags": ["交付延迟", "库存不足", "智能门锁V2"],
+    "category": "交付问题"
+  },
+  {
+    "ticket_id": "TK-3004",
+    "title": "办公室空调维修",
+    "description": "3楼会议室空调不制冷，需要维修。",
+    "reporter": "行政部小李",
+    "department": "行政部",
+    "priority": "low",
+    "status": "open",
+    "created_at": "2026-04-20T16:00:00Z",
+    "tags": ["设施维修", "空调"],
+    "category": "设施"
+  }
+]

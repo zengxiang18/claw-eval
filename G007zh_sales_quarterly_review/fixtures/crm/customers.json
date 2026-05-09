@@ -1,0 +1,50 @@
+[
+  {
+    "customer_id": "CUS-901",
+    "name": "鼎盛集团",
+    "contact_person": "刘总",
+    "email": "liuzong@dingsheng.com",
+    "phone": "13900139001",
+    "industry": "制造业",
+    "tier": "vip",
+    "annual_revenue": 8000000,
+    "last_contact_date": "2026-03-25",
+    "status": "active",
+    "recent_orders": [
+      {"order_id": "ORD-901", "products": ["PROD-901", "PROD-902"], "total_price": 350000, "date": "2026-01-15", "quantity": 200}
+    ],
+    "notes": "长期VIP客户，Q1订单¥350,000，与财务记录一致。"
+  },
+  {
+    "customer_id": "CUS-902",
+    "name": "创新科技",
+    "contact_person": "陈经理",
+    "email": "chenjl@chuangxin-tech.com",
+    "phone": "13900139002",
+    "industry": "互联网",
+    "tier": "vip",
+    "annual_revenue": 5000000,
+    "last_contact_date": "2026-03-20",
+    "status": "active",
+    "recent_orders": [
+      {"order_id": "ORD-902", "products": ["PROD-901", "PROD-902"], "total_price": 180000, "date": "2026-02-10", "quantity": 100}
+    ],
+    "notes": "VIP客户，Q1订单¥180,000。注意：CRM记录的订单金额与财务收款可能存在差异。"
+  },
+  {
+    "customer_id": "CUS-903",
+    "name": "恒达贸易",
+    "contact_person": "王总",
+    "email": "wangzong@hengda.com",
+    "phone": "13900139003",
+    "industry": "贸易",
+    "tier": "standard",
+    "annual_revenue": 1500000,
+    "last_contact_date": "2026-03-15",
+    "status": "active",
+    "recent_orders": [
+      {"order_id": "ORD-903", "products": ["PROD-903"], "total_price": 95000, "date": "2026-03-01", "quantity": 50}
+    ],
+    "notes": "标准客户，Q1订单¥95,000，含50个智能手环（PROD-903），目前待交付。"
+  }
+]

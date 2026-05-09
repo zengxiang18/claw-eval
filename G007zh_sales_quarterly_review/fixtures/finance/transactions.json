@@ -1,0 +1,32 @@
+[
+  {
+    "transaction_id": "txn_901",
+    "date": "2026-01-20",
+    "amount": 350000.00,
+    "currency": "CNY",
+    "merchant": "鼎盛集团",
+    "category": "销售收款",
+    "description": "ORD-901货款全额到账",
+    "receipt_url": "receipts/txn_901.jpg"
+  },
+  {
+    "transaction_id": "txn_902",
+    "date": "2026-02-15",
+    "amount": 150000.00,
+    "currency": "CNY",
+    "merchant": "创新科技",
+    "category": "销售收款",
+    "description": "ORD-902部分货款（首期），剩余¥30,000待收",
+    "receipt_url": "receipts/txn_902.jpg"
+  },
+  {
+    "transaction_id": "txn_903",
+    "date": "2026-03-10",
+    "amount": 95000.00,
+    "currency": "CNY",
+    "merchant": "恒达贸易",
+    "category": "销售收款",
+    "description": "ORD-903货款全额到账（产品待交付）",
+    "receipt_url": "receipts/txn_903.jpg"
+  }
+]

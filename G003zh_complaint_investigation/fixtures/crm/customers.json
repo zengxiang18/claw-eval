@@ -1,0 +1,36 @@
+[
+  {
+    "customer_id": "CUS-301",
+    "name": "明华科技",
+    "contact_person": "周建明",
+    "email": "zhoujm@minghua-tech.com",
+    "phone": "13900139010",
+    "industry": "安防",
+    "tier": "vip",
+    "annual_revenue": 5000000,
+    "last_contact_date": "2026-04-22",
+    "status": "active",
+    "recent_orders": [
+      {"order_id": "ORD-301", "products": ["智能门锁V2"], "total_price": 280000, "date": "2026-02-15", "quantity": 500},
+      {"order_id": "ORD-302", "products": ["智能门锁V2"], "total_price": 168000, "date": "2026-03-10", "quantity": 300},
+      {"order_id": "ORD-303", "products": ["智能门锁V2配件"], "total_price": 45000, "date": "2026-04-01", "quantity": 200}
+    ],
+    "notes": "战略合作伙伴，年采购额约500万。最近90天退货率从2%飙升至15%，主要涉及智能门锁V2产品。"
+  },
+  {
+    "customer_id": "CUS-302",
+    "name": "鑫达电子",
+    "contact_person": "孙丽",
+    "email": "sunli@xinda-elec.com",
+    "phone": "13900139011",
+    "industry": "电子",
+    "tier": "standard",
+    "annual_revenue": 1200000,
+    "last_contact_date": "2026-04-10",
+    "status": "active",
+    "recent_orders": [
+      {"order_id": "ORD-304", "products": ["温控器Pro"], "total_price": 85000, "date": "2026-03-20", "quantity": 200}
+    ],
+    "notes": "普通客户，近期无异常。"
+  }
+]

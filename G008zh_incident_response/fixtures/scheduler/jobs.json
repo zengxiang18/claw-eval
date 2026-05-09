@@ -1,0 +1,52 @@
+[
+  {
+    "job_id": "JOB-501",
+    "name": "CRM数据同步",
+    "cron_expression": "0 */6 * * *",
+    "action": "data_sync_to_crm",
+    "enabled": true,
+    "last_run": "2026-04-25T06:00:00Z",
+    "next_run": "2026-04-25T12:00:00Z",
+    "last_status": "failed",
+    "created_by": "数据团队",
+    "tags": ["数据同步", "CRM"],
+    "created_at": "2025-01-15T00:00:00Z",
+    "execution_history": [
+      {"run_at": "2026-04-24T18:00:00Z", "status": "failed", "duration_s": 45, "error": "ConnectionTimeout: CRM API unreachable"},
+      {"run_at": "2026-04-25T00:00:00Z", "status": "failed", "duration_s": 30, "error": "ConnectionTimeout: CRM API unreachable"},
+      {"run_at": "2026-04-25T06:00:00Z", "status": "failed", "duration_s": 52, "error": "ConnectionTimeout: CRM API unreachable"}
+    ]
+  },
+  {
+    "job_id": "JOB-502",
+    "name": "邮件日报生成",
+    "cron_expression": "0 8 * * *",
+    "action": "generate_daily_report",
+    "enabled": true,
+    "last_run": "2026-04-25T08:00:00Z",
+    "next_run": "2026-04-26T08:00:00Z",
+    "last_status": "success",
+    "created_by": "运营部",
+    "tags": ["报表", "日报"],
+    "created_at": "2025-03-01T00:00:00Z",
+    "execution_history": [
+      {"run_at": "2026-04-25T08:00:00Z", "status": "success", "duration_s": 15}
+    ]
+  },
+  {
+    "job_id": "JOB-503",
+    "name": "库存预警检查",
+    "cron_expression": "0 9 * * 1-5",
+    "action": "check_inventory_alerts",
+    "enabled": true,
+    "last_run": "2026-04-25T09:00:00Z",
+    "next_run": "2026-04-26T09:00:00Z",
+    "last_status": "success",
+    "created_by": "供应链",
+    "tags": ["库存", "预警"],
+    "created_at": "2025-06-01T00:00:00Z",
+    "execution_history": [
+      {"run_at": "2026-04-25T09:00:00Z", "status": "success", "duration_s": 8}
+    ]
+  }
+]

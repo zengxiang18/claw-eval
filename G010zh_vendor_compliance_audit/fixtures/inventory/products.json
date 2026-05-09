@@ -1,0 +1,32 @@
+[
+  {
+    "product_id": "PRD-1001",
+    "name": "电子元器件A型",
+    "category": "电子元件",
+    "current_stock": 200,
+    "min_stock": 100,
+    "unit_price": 50,
+    "supplier": "速达供应",
+    "description": "通用电子元器件，退货率22%（远超行业平均3%），主要问题为批次质量不稳定"
+  },
+  {
+    "product_id": "PRD-1002",
+    "name": "包装材料B型",
+    "category": "包装材料",
+    "current_stock": 5000,
+    "min_stock": 2000,
+    "unit_price": 5,
+    "supplier": "信达物流",
+    "description": "标准包装材料，退货率1.5%，质量稳定"
+  },
+  {
+    "product_id": "PRD-1003",
+    "name": "精密传感器C型",
+    "category": "传感器",
+    "current_stock": 80,
+    "min_stock": 30,
+    "unit_price": 800,
+    "supplier": "精密电子",
+    "description": "高精度传感器，退货率2%，质量良好"
+  }
+]

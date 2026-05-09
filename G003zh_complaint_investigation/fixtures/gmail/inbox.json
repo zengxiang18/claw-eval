@@ -1,0 +1,22 @@
+[
+  {
+    "message_id": "msg_501",
+    "from": "zhoujm@minghua-tech.com",
+    "to": "service@company.com",
+    "subject": "关于近期服务质量的投诉",
+    "body": "您好，\n\n我是明华科技的周建明，作为贵公司的长期VIP客户，我必须表达对近期服务质量的严重不满。\n\n最近两个月，我们遇到了一系列问题：\n- 采购的智能门锁频繁出故障\n- 部分设备升级后不断断连\n- 最近一批订单迟迟无法交付\n\n这些问题严重影响了我们的项目进度和客户信任。希望贵公司能认真调查并给出解决方案。\n\n如不能在两周内给出满意的答复，我们将考虑更换供应商。\n\n周建明\n明华科技 采购总监\n13900139010",
+    "date": "2026-04-22T10:00:00Z",
+    "labels": ["INBOX", "IMPORTANT"],
+    "is_read": false
+  },
+  {
+    "message_id": "msg_502",
+    "from": "newsletter@industry-weekly.com",
+    "to": "user@company.com",
+    "subject": "物联网行业周报 — 2026年第17期",
+    "body": "本周要点：\n1. 智能家居安全标准更新\n2. 芯片供应恢复趋势\n3. 主要厂商季度财报\n\n详情点击阅读。",
+    "date": "2026-04-21T08:00:00Z",
+    "labels": ["INBOX", "CATEGORY_UPDATES"],
+    "is_read": true
+  }
+]
